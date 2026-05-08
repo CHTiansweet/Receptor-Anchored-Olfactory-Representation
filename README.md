@@ -1,2 +1,2 @@
 # Receptor-Anchored-Olfactory-Representation
-The repository of our paper Receptor-Anchored Olfactory Representation via Perception-Consistent Multi-Instance Learning
+The repository of our paper Receptor-Anchored Olfaction Representation through Perception-Consistent Metric Learning
